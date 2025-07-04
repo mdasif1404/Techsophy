@@ -1,0 +1,6 @@
+"""
+id,name,type,coverage,monthly_premium,tenure
+1,Life Secure,Life,1000000,500,20
+2,Health Shield,Health,500000,600,10
+3,Retire Plan,Retirement,2000000,400,15
+"""

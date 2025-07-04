@@ -1,0 +1,6 @@
+"""
+id,age,marital_status,income,dependents,occupation
+1,28,Single,50000,0,Engineer
+2,45,Married,120000,2,Manager
+3,60,Married,80000,0,Retired
+"""
