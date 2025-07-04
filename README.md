@@ -1,4 +1,4 @@
-"""
+
 # Insurance Product Recommendation Engine
 
 A system that recommends relevant insurance products based on a user's profile and life stage.
@@ -18,4 +18,4 @@ A system that recommends relevant insurance products based on a user's profile a
 - `src/`: Source code for modules
 - `app/`: Flask API
 - `tests/`: Unit tests
-"""
+
